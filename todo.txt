@@ -1,0 +1,7 @@
+
+
+- add one hot encoding for device type - check
+- train on all of the users at the same time
+- hyper parameter tuning with grid search
+- vizualize predictions of the mode
+- try to get different result than 66%
